@@ -15,7 +15,7 @@
 
 <h3 id="sobre">Sobre</h3>
 <p>Este é o primeiro desafio da trilha de React Native do Ignite da Rocketseat! 🚀</p>
-<p>Essa é uma aplicação de lembrete de tarefas, onde foi treinar um pouco mais sobre manipulação do estado no React.</p>
+<p>Essa é uma aplicação de lembrete de tarefas, onde foi possível treinar um pouco mais sobre manipulação do estado no React.</p>
 
 <h3 id="funcionalidades">Funcionalidades</h3>
 <ul>
